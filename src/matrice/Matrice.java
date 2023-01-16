@@ -1,13 +1,12 @@
+package matrice;
+
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import javax.swing.JButton;
 import javax.swing.JFrame;
 import javax.swing.JTextField;
 
-/**
- *
- * @author gabriel.ricaldone
- */
+
 public class Matrice extends JFrame {
 
     JTextField[][] A = new JTextField[6][6];
